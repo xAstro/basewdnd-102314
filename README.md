@@ -14,10 +14,10 @@ Work alone or as a team, but be clear in your pull request who was in your group
 
 Part 2 (complete after our midway lesson):
 - Spice up this article! Add some semantic markup tags to structure the content within. Use the following semantic markup tags:
-- <header>
-- <footer>
-- <article>
-- <section>
-- <time>
-- <figure>
-- <figcaption>
+- header
+- footer
+- article
+- section
+- time
+- figure
+- figcaption
