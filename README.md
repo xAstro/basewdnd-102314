@@ -7,9 +7,8 @@ OH NO! My code got all frazzled (octocat walked all over the keyboard again...).
 
 - Missing tags
 - Misspelled tags
-- Missing links/misspelled links/broken image links (did I forget a period? Did I forget http:// ?)
+- Missing links/misspelled links/broken image links (did I forget a period? Did I forget the first part of my link?
 - Nesting errors
-- 
 
 Work alone or as a team, but be clear in your pull request who was in your group!
 
